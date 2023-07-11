@@ -1,0 +1,29 @@
+{
+  "name": "shojaeiebodcomp2537assignment4",
+  "version": "1.0.0",
+  "description": "This is a single-page web application that fetches and displays information about Pokemon from the PokeAPI into a card-matching game that includes features such as card flipping, click validation, match validation, a winning event, header information display, start and reset buttons, different difficulty levels, customizable themes, and power-up mechanics integration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^6.8.1",
+    "css-minimizer-webpack-plugin": "^5.0.1",
+    "html-webpack-plugin": "^5.5.3",
+    "mini-css-extract-plugin": "^2.7.6",
+    "style-loader": "^3.3.3",
+    "terser-webpack-plugin": "^5.3.9",
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-obfuscator": "^3.5.1"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "sweetalert": "^2.1.2",
+    "transition-style": "^0.1.3"
+  }
+}
