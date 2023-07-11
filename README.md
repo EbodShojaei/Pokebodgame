@@ -1,7 +1,7 @@
 # Pokémon Card Matching Game
-### COMP2537_Assignment4
+### About
 
-This is a single-page web application that fetches and displays information about Pokemon from the PokeAPI into a card-matching game that includes features such as card flipping, click validation, match validation, a winning event, header information display, start and reset buttons, different difficulty levels, customizable themes, and power-up mechanics integration.
+This is a single-page web application that fetches and displays information about Pokemon from the PokeAPI into a card-matching game that includes features such as card flipping, click validation, match validation, a winning event, header information display, start and reset buttons, different difficulty levels, customizable themes, and power-up mechanics integration. The project has been bundled using WebPack.
 <br>
 ##### Hosted (**[Link](https://pokebodgame.netlify.app)**)
 ##### Video (**[Link](https://www.youtube.com/watch?v=6cJT8tTSC0Y)**)
